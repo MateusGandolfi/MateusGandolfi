@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grupo Cene<br>🌱 I’m currently learning HTML+CSS<br>⚡ I programming in Python<br>💬 I'm 18 years old
+🔭 I’m currently working on Grupo Cene<br>🌱 I’m currently learning JavaScript<br>⚡ I programming in Python<br>📚 The technologies I know are: SQL, Power BI, UiPath, Pentaho Bi, HTML+CSS<br>💬 I'm 18 years old
 
 
 ## 🌐 Socials:
